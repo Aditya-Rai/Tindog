@@ -123,3 +123,47 @@ p{
     transform: rotate(0);
     }
 }
+}.fa-bars{
+    font-size:18px;
+}
+#inputPassword2{
+    width:78%;
+    height:37px;
+    border-radius:0px;
+    margin-left:3%;
+}#tsb{
+  padding:10px;
+  width:35px;
+  margin-right:5%;
+}#mhead{
+    font-family: 'Roboto Slab', serif;
+    margin-left:4%;
+}.tlbtn{
+    margin-top:5px;
+}
+#tsk{
+    padding-bottom:10px;
+}
+#SeA{
+    text-align:right;
+    color:dodgerblue;
+    font-weight:900;
+    margin-right:3%;
+}.sh{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.sbtn{
+    margin-bottom:20px;
+    width:80px;
+}.card-title{
+    font-weight:600;
+}
+     #tcon1t{
+   padding-top:10px;
+}
+.tlbtn{
+    font-size:18px;
+    text-align:right;
+    margin-right:3%;
+}
