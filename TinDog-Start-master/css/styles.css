@@ -4,7 +4,7 @@
                 height: 100%;
                 width: 100%;
                 place-items: center;
-                background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+                background-image: linear-gradient(to bottom right, rgb(238, 50, 81), rgb(255, 191, 191));
                 background-size: 400% 400%;
                 animation: gradient 15s ease infinite;
                 height: 100vh;
